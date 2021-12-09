@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Zadatak</title>
+       
+            
+            </style>
+    </head>
+<body>
+    
+    <h1>Milica Todorovic</h1>
+Milica Todorovic (Kruševac, 13. oktobra 1990) je srpska pevacica i glumica, najpoznatija kao pobednica takmicarske TV-emisije Zvezde Granda.
+
+Pobednica drugog serijala Zvezde Granda. Pobedila je samo sa 14 godina, kao najmlada ucesnica. Na koktel CD-u iz 2005. godine našle su se pesme Uporedi me, Reci ja kao solo pesme i Jaci pol, zajedno sa ostalim devojkama te sezone Zvezde Granda. Vec 2006. snima pesmu Zašto cura sedi sama sa kojom prolazi u finale na Granvom festivalu, zatim snima duet sa reperom Dragonom Daj mi. U polufinalu Grandovog festivala 2008. nastupa sa pesmom SMS. Pošto je morala da saceka da postane punoletna, prvi album je izdala tek sa 18 godina sa naslovnom numerom Pamtim ja. Pocetkom 2010-ih izdala je nekoliko singlova Sa bilo kim , Samo me zagrli , Sve je uzalud , Zbog tebe i Samo me pogledaj . 2013. godine izdaje pesme Nema nazad , od kojih je pesma Tri caše sa preko 50 miliona pregleda na Jutubu ostvarila veliki uspeh postavši najpopularnijija pevacica Zvezde Granda. Nakon toga je postigla još veci uspeh pesmom Moje zlato koju je izdala na leto 2014. u duetu sa MC Jankom beleži na JuTubu više od 100 miliona pregleda, što je stavlja na prvo mesto po pregledima u regiji. Na Grandovom festivalu 2014. osvojila je drugo mesto sa pesmom Konacna odluka. Trenutno je jedan od clanova žirija u decjoj emisiji Neki novi klinci zajedno sa Radom Manojlovic, Banetom Mojicevicem i Topalkom.
+
+Glumila je u nekoliko britanskih filmova i TV-serija.
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.blic.rs%2Fzabava%2Fvesti%2Fone-su-hot-koja-pevacica-je-najzgodnija%2Fnfd5jwn&psig=AOvVaw1xnU8b407b3tFDhPufBWY7&ust=1639133111407000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLDGxf7E1vQCFQAAAAAdAAAAABA"
+
+    
+</body>
+</html>
